@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ah as h}from"./chunks/framework.D3s0AgZG.js";const g=JSON.parse('{"title":"节点","description":"","frontmatter":{},"headers":[],"relativePath":"zh/node.md","filePath":"zh/node.md"}'),l={name:"zh/node.md"};function p(k,s,t,e,E,r){return n(),a("div",null,[...s[0]||(s[0]=[h("",2)])])}const y=i(l,[["render",p]]);export{g as __pageData,y as default};
