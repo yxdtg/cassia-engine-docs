@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ah as e}from"./chunks/framework.DX76cmNM.js";const g=JSON.parse('{"title":"引擎","description":"","frontmatter":{},"headers":[],"relativePath":"zh/engine.md","filePath":"zh/engine.md"}'),t={name:"zh/engine.md"};function l(h,s,p,k,r,d){return n(),a("div",null,[...s[0]||(s[0]=[e("",2)])])}const c=i(t,[["render",l]]);export{g as __pageData,c as default};
