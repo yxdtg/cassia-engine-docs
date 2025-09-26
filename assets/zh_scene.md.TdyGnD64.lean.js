@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ah as e}from"./chunks/framework.BJ-vLOY1.js";const c=JSON.parse('{"title":"场景","description":"","frontmatter":{},"headers":[],"relativePath":"zh/scene.md","filePath":"zh/scene.md"}'),t={name:"zh/scene.md"};function h(l,s,k,p,r,E){return n(),a("div",null,[...s[0]||(s[0]=[e("",2)])])}const g=i(t,[["render",h]]);export{c as __pageData,g as default};

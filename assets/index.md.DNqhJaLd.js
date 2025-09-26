@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.BJ-vLOY1.js";typeof window<"u"&&(window.location.href="/zh");const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function a(i,r,d,c,s,f){return n(),t("div")}const m=e(o,[["render",a]]);export{_ as __pageData,m as default};
