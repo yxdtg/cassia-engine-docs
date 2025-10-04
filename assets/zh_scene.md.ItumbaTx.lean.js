@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ah as e}from"./chunks/framework.C09LFTQC.js";const g=JSON.parse('{"title":"场景","description":"","frontmatter":{},"headers":[],"relativePath":"zh/scene.md","filePath":"zh/scene.md"}'),h={name:"zh/scene.md"};function k(t,s,l,p,r,E){return n(),a("div",null,[...s[0]||(s[0]=[e("",2)])])}const y=i(h,[["render",k]]);export{g as __pageData,y as default};

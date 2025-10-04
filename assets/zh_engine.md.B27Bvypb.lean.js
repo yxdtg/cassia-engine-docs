@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ah as t}from"./chunks/framework.C09LFTQC.js";const g=JSON.parse('{"title":"引擎","description":"","frontmatter":{},"headers":[],"relativePath":"zh/engine.md","filePath":"zh/engine.md"}'),h={name:"zh/engine.md"};function l(e,s,p,k,r,E){return n(),a("div",null,[...s[0]||(s[0]=[t("",2)])])}const c=i(h,[["render",l]]);export{g as __pageData,c as default};
